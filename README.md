@@ -1,0 +1,2 @@
+# Stack-Overflow-Developer-Survey-Results
+You would think that we might have developed enough software by now in 2019. It appears not. There is still massive growth in the software industry and tech analysts are spending even more time trying to fashion their predictions for and of the road ahead. So in what direction is the software industry heading, lets have a look through the Stack Overflow 2019 Developer Survey Results.
